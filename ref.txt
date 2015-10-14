@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC>
+<html>
+	<head>
+		<title>Saurutobi.com | My Portfolio</title>
+		<meta name="keywords" content="Media, Movies, Videos, Music, TV, Television, Shows">
+		<meta name="description" content="A MediaPhile's Blog has comprehensive DMCA regulations. If you feel your copyrights have been violated, please submit a DMCA violation Notice here.">
+		<meta name="author" content="Saurutobi">
+        <link rel="stylesheet" type="text/css" href="dmca.css">
+	</head>
+	<body>
+    <div id="container">
+    
+    	<div id="main">
+            <h1>My Portfolio</h1>
+            <br>
+            <h3>put menu bar here: home, Blog, about, personal projects</h3>
+            
+			Over the years, I've worked on many different projects, this website included. I've built a pretty decent portfolio, and am constantly adding to it.
+			Below are the finished works from University, or from my free time. Some links expand to show you only a few projects, others link to another page
+			for a more comprehensive view.
+			Each project can be downloaded and placed inside the proper container through a link on the seperate page, or can be viewed a syntax-highlighted text on this site.
+			I went through the laborious effort to properly highlight each project correctly.
+			If you wish to use to code for your own projects, and plan on distributing it free of charge, I hereby give you the right to do so, provided you give me proper
+			acknowledgement in the code and program description.
+			If you wish to review all files without downloading each link seperatly and without full program description as this site give, click HERE(Link to rar of all projects).
+			
+			University Projects:
+			
+			Assembly and Sparc Processor programming (Will expand)
+				(this one expands out)
+				project one(Link to new page)
+					This is a typescript for the first project of my CS2230 class. The goal was to multiply 2 integers, add them to another set of 2 integers, and add them to
+					another set of 2 integers in the form: X1*X2 + Y1*Y2 + Z1*Z2. This project contains 2 parts, the first in standard Assembly, the second doing the multiplication
+					with hexadecimal encoding of the 32bit functions
+				project two(Link to new page)
+					This is a typescript for the second project of my CS2230 class. We were to send 8 hexadecimal characters to a C method and an Assembly method, and utilize masking
+					to extract the specified byte in hexadecimal form from the input.
+				project three(Link to new page)
+					This is a typescript for the third project of my CS2230 class. There were 3 goals to be done in seperate methods:
+						1. send input to CountBits which counts the number of 1s in the 8 character hexadecimal input
+						2. a loop which finds the hexadecimal representation for the number just before the 'C' flag in NZVC is set
+						3. a loop which finds the hexadecimal representation for the number just before the 'V' flag in NZVC is set
+				project four(Link to new page)
+					This is a typescript for the fourth project of my CS2230 class. The goal was to input grades, and output a scaled histogram of said grades on an 80x80 display
+				project five(Link to new page)
+					This is a typescript for the fourht project of my CS2230 class. The goal was to take a provided C program, compile it to Assembly, then remove as many lines as possible
+					without losing effectiveness. The one with the least amount of lines received a snickers bar. 5 people of 60(including me) removed the full 14 possible lines.
+			
+			C and Unix System Programming (Will expand)
+				(This one expands out)
+			
+			
+			Game Development (Will expand)
+				(This one expands out)
+			
+			
+			Java (Will link to a new page)
+				(This one links to a new page)
+			
+			
+			Python and Arificial Neural Networks  (Will expand)
+				(This one expands out)
+			
+			
+			Game Development (Will expand)
+				(This one expands out)
+			
+			
+			Web Development  (Will expand)
+				(This one expands out)
+			
+			
+			Personal Project (Will link to a new page)
+				(This one links to a new page)
+				
+				
+			
+	<div id="footer">
+        <span>
+            <p>Copyright 2013 by Saurutobi. Created by LbKStudios
+            </p>
+        </span>
+    </div>
+	</body>
+</html>
