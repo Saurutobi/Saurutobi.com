@@ -10,11 +10,12 @@
 		<link rel="stylesheet" href="styles/bootstrap/bootstrap.min.css">
 		<link rel="stylesheet" href="styles/bootstrap/bootstrap-theme.min.css">
 		<script type="text/javascript" src="js/analytics.js"></script>
+        <script type="text/javascript" src="js/media.js"></script>
         <script type="text/javascript" src="js/jquery/jquery-2.1.4.min.js"></script>
         <script type="text/javascript" src="js/bootstrap/bootstrap.js"></script>
         <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
 		<link rel="icon" href="Assets/img/favicon.ico" type="image/x-icon">
-		<title>Marcel Englmaier</title>
+		<title>Saurutobi's MediaDrives</title>
 	</head>
 	<body>
         <div id="Nav">
@@ -29,17 +30,15 @@
                 </div>
             </div>
         </div>
-        <div id="selector buttons>
-        
+        <div id="SelectorButtons">
+            <button type="button" class="btn btn-primary" onclick="ChangeMediaDrive(1);">MediaDrive 1</button>
+            <button type="button" class="btn btn-primary" onclick="ChangeMediaDrive(2);">MediaDrive 2</button>
+            <button type="button" class="btn btn-primary" onclick="ChangeMediaDrive(3);">MediaDrive 3</button>
+            <button type="button" class="btn btn-primary" onclick="ChangeMediaDrive(4);">MediaDrive 4</button>
         </div>
-        <div class="row">
+        <br>
+        <div id="MediaDrive">
             <iframe id="ActiveMediaDrive" src="https://docs.google.com/spreadsheets/d/1hXb3W_M__uBLGUePdgzHWgITGG1KnIQuT5GYIvFISsw/pubhtml?widget=true&amp;headers=false"></iframe>
-            <br>
-            <iframe src="https://docs.google.com/spreadsheets/d/1dcM6jYrMiDkaw3N2Iz9w37-VA5DbdPW-WWLVyekUWVk/pubhtml?widget=true&amp;headers=false"></iframe>
-            <br>
-            <iframe src="https://docs.google.com/spreadsheets/d/1aFgTuX1f8P1ch0s1DVFeBXVMc7HbRqFa-820QmkBvZM/pubhtml?widget=true&amp;headers=false"></iframe>
-            <br>
-            <iframe src="https://docs.google.com/spreadsheets/d/1COGK6XtuHeaUtzCj87_fsGYoRQ_7fKEnilII0yuYaGM/pubhtml?widget=true&amp;headers=false"></iframe>
         </div>
     </body>
 </html>
